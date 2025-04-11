@@ -1,0 +1,597 @@
+[
+    {
+      "q": "Change is hardest at the beginning, messiest in the middle and best at the end.",
+      "a": "Robin Sharma",
+      "c": "79",
+      "h": "\u003Cblockquote\u003E&ldquo;Change is hardest at the beginning, messiest in the middle and best at the end.&rdquo; &mdash; \u003Cfooter\u003ERobin Sharma\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+      "a": "Albert Einstein",
+      "c": "90",
+      "h": "\u003Cblockquote\u003E&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo; &mdash; \u003Cfooter\u003EAlbert Einstein\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Would you rather live your life according to the approval of others or aligned with your truth and your dreams?",
+      "a": "Robin Sharma",
+      "c": "111",
+      "h": "\u003Cblockquote\u003E&ldquo;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&rdquo; &mdash; \u003Cfooter\u003ERobin Sharma\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "If I love myself I love you. If I love you I love myself.",
+      "a": "Rumi",
+      "c": "57",
+      "h": "\u003Cblockquote\u003E&ldquo;If I love myself I love you. If I love you I love myself.&rdquo; &mdash; \u003Cfooter\u003ERumi\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Do not wait for leaders; do it alone, person to person.",
+      "a": "Mother Teresa",
+      "c": "55",
+      "h": "\u003Cblockquote\u003E&ldquo;Do not wait for leaders; do it alone, person to person.&rdquo; &mdash; \u003Cfooter\u003EMother Teresa\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Smell the cheese often so you know when it is getting old.",
+      "a": "Spencer Johnson",
+      "c": "58",
+      "h": "\u003Cblockquote\u003E&ldquo;Smell the cheese often so you know when it is getting old.&rdquo; &mdash; \u003Cfooter\u003ESpencer Johnson\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "The more you know, the more you know you don't know.",
+      "a": "Aristotle",
+      "c": "52",
+      "h": "\u003Cblockquote\u003E&ldquo;The more you know, the more you know you don't know.&rdquo; &mdash; \u003Cfooter\u003EAristotle\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Truth is the offspring of silence and meditation.",
+      "a": "Isaac Newton",
+      "c": "49",
+      "h": "\u003Cblockquote\u003E&ldquo;Truth is the offspring of silence and meditation.&rdquo; &mdash; \u003Cfooter\u003EIsaac Newton\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "The more you feed your mind with positive thoughts, the more you can attract great things into your life.",
+      "a": "Roy T. Bennett",
+      "c": "105",
+      "h": "\u003Cblockquote\u003E&ldquo;The more you feed your mind with positive thoughts, the more you can attract great things into your life.&rdquo; &mdash; \u003Cfooter\u003ERoy T. Bennett\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Why fit in when you were born to stand out?",
+      "a": "Dr. Seuss",
+      "c": "43",
+      "h": "\u003Cblockquote\u003E&ldquo;Why fit in when you were born to stand out?&rdquo; &mdash; \u003Cfooter\u003EDr. Seuss\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.",
+      "a": "Alan Watts",
+      "c": "130",
+      "h": "\u003Cblockquote\u003E&ldquo;You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.&rdquo; &mdash; \u003Cfooter\u003EAlan Watts\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "You get paid in direct proportion to the difficulty of problems you solve.",
+      "a": "Elon Musk",
+      "c": "74",
+      "h": "\u003Cblockquote\u003E&ldquo;You get paid in direct proportion to the difficulty of problems you solve.&rdquo; &mdash; \u003Cfooter\u003EElon Musk\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Failure will never overtake me if my determination to succeed is strong enough.",
+      "a": "Og Mandino",
+      "c": "79",
+      "h": "\u003Cblockquote\u003E&ldquo;Failure will never overtake me if my determination to succeed is strong enough.&rdquo; &mdash; \u003Cfooter\u003EOg Mandino\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Failure is not fatal, but failure to change might be.",
+      "a": "John Wooden",
+      "c": "53",
+      "h": "\u003Cblockquote\u003E&ldquo;Failure is not fatal, but failure to change might be.&rdquo; &mdash; \u003Cfooter\u003EJohn Wooden\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Words used to attract the dull of wit are not to be relied on.",
+      "a": "Huang Po",
+      "c": "62",
+      "h": "\u003Cblockquote\u003E&ldquo;Words used to attract the dull of wit are not to be relied on.&rdquo; &mdash; \u003Cfooter\u003EHuang Po\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "When you lose your desire for things that do not matter, you will be free.",
+      "a": "Morihei Ueshiba",
+      "c": "74",
+      "h": "\u003Cblockquote\u003E&ldquo;When you lose your desire for things that do not matter, you will be free.&rdquo; &mdash; \u003Cfooter\u003EMorihei Ueshiba\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.",
+      "a": "Benjamin Franklin",
+      "c": "86",
+      "h": "\u003Cblockquote\u003E&ldquo;Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.&rdquo; &mdash; \u003Cfooter\u003EBenjamin Franklin\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Never spend your money before you have earned it.",
+      "a": "Thomas Jefferson",
+      "c": "49",
+      "h": "\u003Cblockquote\u003E&ldquo;Never spend your money before you have earned it.&rdquo; &mdash; \u003Cfooter\u003EThomas Jefferson\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "The soul without imagination is what an observatory would be without a telescope.",
+      "a": "Henry Ward Beecher",
+      "c": "81",
+      "h": "\u003Cblockquote\u003E&ldquo;The soul without imagination is what an observatory would be without a telescope.&rdquo; &mdash; \u003Cfooter\u003EHenry Ward Beecher\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "When you love someone, you love the person as they are, and not as you'd like them to be.",
+      "a": "Leo Tolstoy",
+      "c": "89",
+      "h": "\u003Cblockquote\u003E&ldquo;When you love someone, you love the person as they are, and not as you'd like them to be.&rdquo; &mdash; \u003Cfooter\u003ELeo Tolstoy\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Give so much away people insist on paying you.",
+      "a": "Jack Butcher",
+      "c": "46",
+      "h": "\u003Cblockquote\u003E&ldquo;Give so much away people insist on paying you.&rdquo; &mdash; \u003Cfooter\u003EJack Butcher\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Don't listen to the person who has the answers; listen to the person who has the questions.",
+      "a": "Albert Einstein",
+      "c": "91",
+      "h": "\u003Cblockquote\u003E&ldquo;Don't listen to the person who has the answers; listen to the person who has the questions.&rdquo; &mdash; \u003Cfooter\u003EAlbert Einstein\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Everyday is a second chance.",
+      "a": "Meng Sonly",
+      "c": "28",
+      "h": "\u003Cblockquote\u003E&ldquo;Everyday is a second chance.&rdquo; &mdash; \u003Cfooter\u003EMeng Sonly\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Knowing others is wisdom, knowing yourself is enlightenment.",
+      "a": "Lao Tzu",
+      "c": "60",
+      "h": "\u003Cblockquote\u003E&ldquo;Knowing others is wisdom, knowing yourself is enlightenment.&rdquo; &mdash; \u003Cfooter\u003ELao Tzu\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.",
+      "a": "James Allen",
+      "c": "113",
+      "h": "\u003Cblockquote\u003E&ldquo;Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.&rdquo; &mdash; \u003Cfooter\u003EJames Allen\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.",
+      "a": "T.S. Eliot",
+      "c": "109",
+      "h": "\u003Cblockquote\u003E&ldquo;If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.&rdquo; &mdash; \u003Cfooter\u003ET.S. Eliot\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Persistence is very important. You should not give up unless you are forced to give up.",
+      "a": "Elon Musk",
+      "c": "87",
+      "h": "\u003Cblockquote\u003E&ldquo;Persistence is very important. You should not give up unless you are forced to give up.&rdquo; &mdash; \u003Cfooter\u003EElon Musk\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Stop wasting time defending your problems and work on addressing them instead.",
+      "a": "Celestine Chua",
+      "c": "78",
+      "h": "\u003Cblockquote\u003E&ldquo;Stop wasting time defending your problems and work on addressing them instead.&rdquo; &mdash; \u003Cfooter\u003ECelestine Chua\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "A crisis is an opportunity riding the dangerous wind.",
+      "a": "Chinese Proverb",
+      "c": "53",
+      "h": "\u003Cblockquote\u003E&ldquo;A crisis is an opportunity riding the dangerous wind.&rdquo; &mdash; \u003Cfooter\u003EChinese Proverb\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "With the new day comes new strength and new thoughts.",
+      "a": "Eleanor Roosevelt",
+      "c": "53",
+      "h": "\u003Cblockquote\u003E&ldquo;With the new day comes new strength and new thoughts.&rdquo; &mdash; \u003Cfooter\u003EEleanor Roosevelt\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.",
+      "a": "Meng Sonly",
+      "c": "136",
+      "h": "\u003Cblockquote\u003E&ldquo;If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.&rdquo; &mdash; \u003Cfooter\u003EMeng Sonly\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.",
+      "a": "Norman Vincent Peale",
+      "c": "134",
+      "h": "\u003Cblockquote\u003E&ldquo;A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.&rdquo; &mdash; \u003Cfooter\u003ENorman Vincent Peale\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "The big thing is to make a winning effort. I'm not obsessed with wins.",
+      "a": "Morgan Wootten",
+      "c": "70",
+      "h": "\u003Cblockquote\u003E&ldquo;The big thing is to make a winning effort. I'm not obsessed with wins.&rdquo; &mdash; \u003Cfooter\u003EMorgan Wootten\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "If you can handle rejection, you'll learn to get everything you want.",
+      "a": "Tony Robbins",
+      "c": "69",
+      "h": "\u003Cblockquote\u003E&ldquo;If you can handle rejection, you'll learn to get everything you want.&rdquo; &mdash; \u003Cfooter\u003ETony Robbins\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "When reading, only read. When eating, only eat. When thinking, only think.",
+      "a": "Seungsahn",
+      "c": "74",
+      "h": "\u003Cblockquote\u003E&ldquo;When reading, only read. When eating, only eat. When thinking, only think.&rdquo; &mdash; \u003Cfooter\u003ESeungsahn\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "It is not how much we have, but how much we enjoy, that makes happiness.",
+      "a": "Charles Spurgeon",
+      "c": "72",
+      "h": "\u003Cblockquote\u003E&ldquo;It is not how much we have, but how much we enjoy, that makes happiness.&rdquo; &mdash; \u003Cfooter\u003ECharles Spurgeon\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.",
+      "a": "Zen Proverb",
+      "c": "138",
+      "h": "\u003Cblockquote\u003E&ldquo;Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.&rdquo; &mdash; \u003Cfooter\u003EZen Proverb\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Living life in style also means living a life of balance.",
+      "a": "Jim Rohn",
+      "c": "57",
+      "h": "\u003Cblockquote\u003E&ldquo;Living life in style also means living a life of balance.&rdquo; &mdash; \u003Cfooter\u003EJim Rohn\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Opportunities multiply as they are seized.",
+      "a": "Sun Tzu",
+      "c": "42",
+      "h": "\u003Cblockquote\u003E&ldquo;Opportunities multiply as they are seized.&rdquo; &mdash; \u003Cfooter\u003ESun Tzu\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Constantly think about how you could be doing things better.",
+      "a": "Elon Musk",
+      "c": "60",
+      "h": "\u003Cblockquote\u003E&ldquo;Constantly think about how you could be doing things better.&rdquo; &mdash; \u003Cfooter\u003EElon Musk\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.",
+      "a": "Celestine Chua",
+      "c": "140",
+      "h": "\u003Cblockquote\u003E&ldquo;For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.&rdquo; &mdash; \u003Cfooter\u003ECelestine Chua\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Attitude is a little thing that makes a big difference.",
+      "a": "Winston Churchill",
+      "c": "55",
+      "h": "\u003Cblockquote\u003E&ldquo;Attitude is a little thing that makes a big difference.&rdquo; &mdash; \u003Cfooter\u003EWinston Churchill\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Any fool can turn a blind eye but who knows what the ostrich sees in the sand.",
+      "a": "Samuel Beckett",
+      "c": "78",
+      "h": "\u003Cblockquote\u003E&ldquo;Any fool can turn a blind eye but who knows what the ostrich sees in the sand.&rdquo; &mdash; \u003Cfooter\u003ESamuel Beckett\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Wherever you are, and whatever you do, be in love.",
+      "a": "Rumi",
+      "c": "50",
+      "h": "\u003Cblockquote\u003E&ldquo;Wherever you are, and whatever you do, be in love.&rdquo; &mdash; \u003Cfooter\u003ERumi\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Muddy water is best cleared by leaving it alone.",
+      "a": "Alan Watts",
+      "c": "48",
+      "h": "\u003Cblockquote\u003E&ldquo;Muddy water is best cleared by leaving it alone.&rdquo; &mdash; \u003Cfooter\u003EAlan Watts\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Words can only have a positive effect on others if and when they are ready to listen.",
+      "a": "Christopher Reeve",
+      "c": "85",
+      "h": "\u003Cblockquote\u003E&ldquo;Words can only have a positive effect on others if and when they are ready to listen.&rdquo; &mdash; \u003Cfooter\u003EChristopher Reeve\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Action is the foundational key to all success.",
+      "a": "Pablo Picasso",
+      "c": "46",
+      "h": "\u003Cblockquote\u003E&ldquo;Action is the foundational key to all success.&rdquo; &mdash; \u003Cfooter\u003EPablo Picasso\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Make failure your teacher, not your undertaker.  ",
+      "a": "Zig Ziglar",
+      "c": "49",
+      "h": "\u003Cblockquote\u003E&ldquo;Make failure your teacher, not your undertaker.  &rdquo; &mdash; \u003Cfooter\u003EZig Ziglar\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "Only those who do nothing at all make no mistakes.",
+      "a": "Meng Sonly",
+      "c": "50",
+      "h": "\u003Cblockquote\u003E&ldquo;Only those who do nothing at all make no mistakes.&rdquo; &mdash; \u003Cfooter\u003EMeng Sonly\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+    {
+      "q": "The farther backward you can look, the farther forward you are likely to see.",
+      "a": "Winston Churchill",
+      "c": "77",
+      "h": "\u003Cblockquote\u003E&ldquo;The farther backward you can look, the farther forward you are likely to see.&rdquo; &mdash; \u003Cfooter\u003EWinston Churchill\u003C/footer\u003E\u003C/blockquote\u003E"
+    },
+      {
+          "q": "Talk is cheap. Show me the code.",
+          "a": "Linus Torvalds",
+          "c": "32",
+          "h": "<blockquote>&ldquo;Talk is cheap. Show me the code.&rdquo; &mdash; <footer>Linus Torvalds</footer></blockquote>"
+      },
+      {
+          "q": "Programs must be written for people to read, and only incidentally for machines to execute.",
+          "a": "Harold Abelson",
+          "c": "91",
+          "h": "<blockquote>&ldquo;Programs must be written for people to read, and only incidentally for machines to execute.&rdquo; &mdash; <footer>Harold Abelson</footer></blockquote>"
+      },
+      {
+          "q": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+          "a": "Martin Fowler",
+          "c": "111",
+          "h": "<blockquote>&ldquo;Any fool can write code that a computer can understand. Good programmers write code that humans can understand.&rdquo; &mdash; <footer>Martin Fowler</footer></blockquote>"
+      },
+      {
+          "q": "First, solve the problem. Then, write the code.",
+          "a": "John Johnson",
+          "c": "47",
+          "h": "<blockquote>&ldquo;First, solve the problem. Then, write the code.&rdquo; &mdash; <footer>John Johnson</footer></blockquote>"
+      },
+      {
+          "q": "Learning to write programs stretches your mind and helps you think better.",
+          "a": "Bill Gates",
+          "c": "74",
+          "h": "<blockquote>&ldquo;Learning to write programs stretches your mind and helps you think better.&rdquo; &mdash; <footer>Bill Gates</footer></blockquote>"
+      },
+      {
+          "q": "The best way to learn to code is to code.",
+          "a": "Meng Sonly",
+          "c": "41",
+          "h": "<blockquote>&ldquo;The best way to learn to code is to code.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Programming isn't about what you know; it's about what you can figure out.",
+          "a": "Chris Pine",
+          "c": "74",
+          "h": "<blockquote>&ldquo;Programming isn&#x27;t about what you know; it&#x27;s about what you can figure out.&rdquo; &mdash; <footer>Chris Pine</footer></blockquote>"
+      },
+      {
+          "q": "Code is like humor. When you have to explain it, it\u2019s bad.",
+          "a": "Cory House",
+          "c": "58",
+          "h": "<blockquote>&ldquo;Code is like humor. When you have to explain it, it\u2019s bad.&rdquo; &mdash; <footer>Cory House</footer></blockquote>"
+      },
+      {
+          "q": "Simplicity is the soul of efficiency.",
+          "a": "Austin Freeman",
+          "c": "37",
+          "h": "<blockquote>&ldquo;Simplicity is the soul of efficiency.&rdquo; &mdash; <footer>Austin Freeman</footer></blockquote>"
+      },
+      {
+          "q": "The only way to learn a new programming language is by writing programs in it.",
+          "a": "Dennis Ritchie",
+          "c": "78",
+          "h": "<blockquote>&ldquo;The only way to learn a new programming language is by writing programs in it.&rdquo; &mdash; <footer>Dennis Ritchie</footer></blockquote>"
+      },
+      {
+          "q": "Experience is the name everyone gives to their mistakes.",
+          "a": "Oscar Wilde",
+          "c": "56",
+          "h": "<blockquote>&ldquo;Experience is the name everyone gives to their mistakes.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>"
+      },
+      {
+          "q": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+          "a": "Edsger W. Dijkstra",
+          "c": "102",
+          "h": "<blockquote>&ldquo;If debugging is the process of removing bugs, then programming must be the process of putting them in.&rdquo; &mdash; <footer>Edsger W. Dijkstra</footer></blockquote>"
+      },
+      {
+          "q": "Code never lies, comments sometimes do.",
+          "a": "Ron Jeffries",
+          "c": "39",
+          "h": "<blockquote>&ldquo;Code never lies, comments sometimes do.&rdquo; &mdash; <footer>Ron Jeffries</footer></blockquote>"
+      },
+      {
+          "q": "You might not think that programmers are artists, but programming is an extremely creative profession.",
+          "a": "John Romero",
+          "c": "102",
+          "h": "<blockquote>&ldquo;You might not think that programmers are artists, but programming is an extremely creative profession.&rdquo; &mdash; <footer>John Romero</footer></blockquote>"
+      },
+      {
+          "q": "Make it work, make it right, make it fast.",
+          "a": "Kent Beck",
+          "c": "42",
+          "h": "<blockquote>&ldquo;Make it work, make it right, make it fast.&rdquo; &mdash; <footer>Kent Beck</footer></blockquote>"
+      },
+      {
+          "q": "There are no shortcuts to any place worth going.",
+          "a": "Beverly Sills",
+          "c": "48",
+          "h": "<blockquote>&ldquo;There are no shortcuts to any place worth going.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>"
+      },
+      {
+          "q": "When you feel like quitting, think about why you started.",
+          "a": "Meng Sonly",
+          "c": "57",
+          "h": "<blockquote>&ldquo;When you feel like quitting, think about why you started.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Push yourself, because no one else is going to do it for you.",
+          "a": "Meng Sonly",
+          "c": "61",
+          "h": "<blockquote>&ldquo;Push yourself, because no one else is going to do it for you.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Practice makes progress.",
+          "a": "Meng Sonly",
+          "c": "24",
+          "h": "<blockquote>&ldquo;Practice makes progress.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "The only way to do great work is to love what you do.",
+          "a": "Steve Jobs",
+          "c": "53",
+          "h": "<blockquote>&ldquo;The only way to do great work is to love what you do.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>"
+      },
+      {
+          "q": "Success is the sum of small efforts repeated day in and day out.",
+          "a": "Robert Collier",
+          "c": "64",
+          "h": "<blockquote>&ldquo;Success is the sum of small efforts repeated day in and day out.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>"
+      },
+      {
+          "q": "Fall in love with the process, and the results will come.",
+          "a": "Eric Thomas",
+          "c": "57",
+          "h": "<blockquote>&ldquo;Fall in love with the process, and the results will come.&rdquo; &mdash; <footer>Eric Thomas</footer></blockquote>"
+      },
+      {
+          "q": "Dream big. Start small. Act now.",
+          "a": "Robin Sharma",
+          "c": "32",
+          "h": "<blockquote>&ldquo;Dream big. Start small. Act now.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>"
+      },
+      {
+          "q": "Great things are done by a series of small things brought together.",
+          "a": "Vincent Van Gogh",
+          "c": "67",
+          "h": "<blockquote>&ldquo;Great things are done by a series of small things brought together.&rdquo; &mdash; <footer>Vincent Van Gogh</footer></blockquote>"
+      },
+      {
+          "q": "You don\u2019t have to be great to start, but you have to start to be great.",
+          "a": "Zig Ziglar",
+          "c": "71",
+          "h": "<blockquote>&ldquo;You don\u2019t have to be great to start, but you have to start to be great.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>"
+      },
+      {
+          "q": "Strive for progress, not perfection.",
+          "a": "Meng Sonly",
+          "c": "36",
+          "h": "<blockquote>&ldquo;Strive for progress, not perfection.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Stay curious. Keep learning. Keep coding.",
+          "a": "Meng Sonly",
+          "c": "41",
+          "h": "<blockquote>&ldquo;Stay curious. Keep learning. Keep coding.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+          "a": "Doug Linder",
+          "c": "89",
+          "h": "<blockquote>&ldquo;A good programmer is someone who always looks both ways before crossing a one-way street.&rdquo; &mdash; <footer>Doug Linder</footer></blockquote>"
+      },
+      {
+          "q": "Don't be afraid to start over. It's a chance to build something better.",
+          "a": "Meng Sonly",
+          "c": "71",
+          "h": "<blockquote>&ldquo;Don&#x27;t be afraid to start over. It&#x27;s a chance to build something better.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Debugging is like being the detective in a crime movie where you are also the murderer.",
+          "a": "Filipe Fortes",
+          "c": "87",
+          "h": "<blockquote>&ldquo;Debugging is like being the detective in a crime movie where you are also the murderer.&rdquo; &mdash; <footer>Filipe Fortes</footer></blockquote>"
+      },
+      {
+          "q": "Fail often so you can succeed sooner.",
+          "a": "Tom Kelley",
+          "c": "37",
+          "h": "<blockquote>&ldquo;Fail often so you can succeed sooner.&rdquo; &mdash; <footer>Tom Kelley</footer></blockquote>"
+      },
+      {
+          "q": "Learning never exhausts the mind.",
+          "a": "Leonardo da Vinci",
+          "c": "33",
+          "h": "<blockquote>&ldquo;Learning never exhausts the mind.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>"
+      },
+      {
+          "q": "In order to be irreplaceable, one must always be different.",
+          "a": "Coco Chanel",
+          "c": "59",
+          "h": "<blockquote>&ldquo;In order to be irreplaceable, one must always be different.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>"
+      },
+      {
+          "q": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday\u2019s code.",
+          "a": "Dan Salomon",
+          "c": "110",
+          "h": "<blockquote>&ldquo;Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday\u2019s code.&rdquo; &mdash; <footer>Dan Salomon</footer></blockquote>"
+      },
+      {
+          "q": "Perseverance is the key to mastering code.",
+          "a": "Meng Sonly",
+          "c": "42",
+          "h": "<blockquote>&ldquo;Perseverance is the key to mastering code.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Success in coding is a marathon, not a sprint.",
+          "a": "Meng Sonly",
+          "c": "46",
+          "h": "<blockquote>&ldquo;Success in coding is a marathon, not a sprint.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Write code every day, and you'll improve every day.",
+          "a": "Meng Sonly",
+          "c": "51",
+          "h": "<blockquote>&ldquo;Write code every day, and you&#x27;ll improve every day.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Read code, write code, break code, fix code.",
+          "a": "Meng Sonly",
+          "c": "44",
+          "h": "<blockquote>&ldquo;Read code, write code, break code, fix code.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Code is poetry, and you are the poet.",
+          "a": "Meng Sonly",
+          "c": "37",
+          "h": "<blockquote>&ldquo;Code is poetry, and you are the poet.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "If you can't explain your code simply, you don't understand it well enough.",
+          "a": "Meng Sonly",
+          "c": "75",
+          "h": "<blockquote>&ldquo;If you can&#x27;t explain your code simply, you don&#x27;t understand it well enough.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Keep calm and keep coding.",
+          "a": "Meng Sonly",
+          "c": "26",
+          "h": "<blockquote>&ldquo;Keep calm and keep coding.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "The only constant in programming is change.",
+          "a": "Meng Sonly",
+          "c": "43",
+          "h": "<blockquote>&ldquo;The only constant in programming is change.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+          "a": "Patrick McKenzie",
+          "c": "119",
+          "h": "<blockquote>&ldquo;Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.&rdquo; &mdash; <footer>Patrick McKenzie</footer></blockquote>"
+      },
+      {
+          "q": "Coding is the language of the future. Learn it.",
+          "a": "Meng Sonly",
+          "c": "47",
+          "h": "<blockquote>&ldquo;Coding is the language of the future. Learn it.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Stay committed. The journey is worth it.",
+          "a": "Meng Sonly",
+          "c": "40",
+          "h": "<blockquote>&ldquo;Stay committed. The journey is worth it.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Every expert was once a beginner.",
+          "a": "Helen Hayes",
+          "c": "33",
+          "h": "<blockquote>&ldquo;Every expert was once a beginner.&rdquo; &mdash; <footer>Helen Hayes</footer></blockquote>"
+      },
+      {
+          "q": "Effort is never wasted, even when it leads to failure.",
+          "a": "Meng Sonly",
+          "c": "54",
+          "h": "<blockquote>&ldquo;Effort is never wasted, even when it leads to failure.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Success is built on the back of countless failed commits.",
+          "a": "Meng Sonly",
+          "c": "57",
+          "h": "<blockquote>&ldquo;Success is built on the back of countless failed commits.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      },
+      {
+          "q": "Learn from your bugs, they\u2019re your best teachers.",
+          "a": "Meng Sonly",
+          "c": "49",
+          "h": "<blockquote>&ldquo;Learn from your bugs, they\u2019re your best teachers.&rdquo; &mdash; <footer>Meng Sonly</footer></blockquote>"
+      }
+  
+  ]
