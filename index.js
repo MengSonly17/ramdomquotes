@@ -14,8 +14,8 @@ async function getQuote() {
     const length = data.length;
     const ramdomIndex = Math.floor(Math.random() * length);
 
-    quote.innerHTML = data[ramdomIndex].q;
-    quoteAuthor.innerHTML = data[ramdomIndex].a;
+    // quote.innerHTML = data[ramdomIndex].q;
+    // quoteAuthor.innerHTML = data[ramdomIndex].a;
     quoteH.innerHTML = data[ramdomIndex].h;
 }
 quoteBtn.addEventListener('click',() => {
